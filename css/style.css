@@ -86,7 +86,7 @@ a:focus {
 }
 
 .nav-link.active {
-    color: #EF233C;
+    color: #9b15db;
     background: transparent;
     box-shadow: inset 0 0 0 0 rgba(239, 35, 60, 0);
     border-color: #ffffff;
@@ -127,7 +127,7 @@ a:focus {
     width: 45px;
     height: 45px;
     border: 5px solid #dddddd;
-    border-top: 5px solid #EF233C;
+    border-top: 5px solid #9b15db;
     border-radius: 50%;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
